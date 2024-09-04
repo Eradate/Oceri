@@ -1,8 +1,8 @@
 local maker = loadstring(game:HttpGet("https://github.com/slf0Dev/my-ui-library-making-utility/raw/main/InstanceMaker.lua"))();
 local make = maker.Instance
 
-local x = 300
-local y = 150
+local x = 600
+local y = 400
 
 local SupportedProperties = {
     "TextTransparency"  , "ImageTransparency" , "BackgroundTransparency"
