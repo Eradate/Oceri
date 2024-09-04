@@ -139,7 +139,7 @@ function Library.Main(text : string)
         Name = "Main";
         AnchorPoint = Vector2.new(0.5,0.5);
         Position = UDim2.new(0.5,0,0.55,0);
-        Size = UDim2.new(1, -30, 1, -30);
+        Size = UDim2.new(1, -350, 1, -350);
         BorderSizePixel = 0;
         BackgroundTransparency = 0;
         BackgroundColor3 = Library["theme"]["MainColor"];
